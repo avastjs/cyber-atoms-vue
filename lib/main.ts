@@ -1,3 +1,4 @@
+import './style.css'; 
 import FancyNavbar from "./components/FancyNavbar.vue"
 
 export default {
