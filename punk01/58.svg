@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X7 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="2300px" height="440px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 129 25"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil0 {fill:black}
+    .fil1 {fill:#1A1A1A}
+    .fil2 {fill:#333333}
+    .fil3 {fill:#4D4D4D}
+    .fil4 {fill:#666666}
+    .fil5 {fill:gray}
+    .fil6 {fill:#999999}
+    .fil9 {fill:#B3B3B3}
+    .fil7 {fill:#CCCCCC}
+    .fil8 {fill:#E6E6E6}
+    .fil10 {fill:url(#id0)}
+   ]]>
+  </style>
+  <linearGradient id="id0" gradientUnits="userSpaceOnUse" x1="64.4764" y1="4.44536" x2="64.4764" y2="20.2509">
+   <stop offset="0" style="stop-opacity:1; stop-color:#939393"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#525252"/>
+  </linearGradient>
+ </defs>
+ <g id="Vrstva_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_2647990156432">
+   <path class="fil0" d="M16 20l2 1 -12 0 8 -9c1,0 1,-1 2,-1l6 0 -6 8c0,0 0,0 0,0 0,0 0,1 0,1z"/>
+   <path class="fil1" d="M27 19c0,0 0,0 0,0 0,0 0,1 0,1l1 1 -9 0 -2 -2 6 -7c0,0 0,0 0,-1l10 0 -6 8z"/>
+   <path class="fil2" d="M37 19c0,0 0,1 1,1l1 1 -9 0 -2 -2 6 -7c0,0 0,0 0,-1l10 0 -7 8c0,0 0,0 0,0z"/>
+   <path class="fil3" d="M52 21l-11 0 -2 -2 6 -7c0,0 0,0 0,-1l12 0 -7 8c0,0 0,0 0,0 0,0 0,1 1,1l1 1z"/>
+   <path class="fil4" d="M61 20l2 1 -9 0 -2 -2 6 -7c0,0 0,0 0,-1l10 0 -7 8c0,0 0,0 0,0 0,0 0,1 0,1z"/>
+   <path class="fil5" d="M74 21l-9 0 -3 -2 7 -7c0,0 0,0 0,-1 0,0 0,0 0,0l10 0 -7 8c0,0 0,0 0,0 0,0 0,1 0,1l2 1z"/>
+   <path class="fil6" d="M85 21l-10 0 -2 -2 7 -7c0,0 0,0 0,-1l9 0 -6 8c0,0 0,0 0,0 0,0 0,1 0,1l2 1z"/>
+   <path class="fil7" d="M111 11l-6 8c0,0 0,0 0,0 0,0 0,1 0,1l1 1 -9 0 -2 -2 6 -7c0,0 0,0 0,-1l10 0z"/>
+   <path class="fil8" d="M114 21l-6 0 -2 -2 6 -7c0,0 0,0 0,-1l11 0 -9 10z"/>
+   <path class="fil9" d="M96 21l-10 0 -2 -2 7 -7c0,0 0,0 0,-1l9 0 -6 8c0,0 0,0 0,0 0,0 0,1 0,1l2 1z"/>
+   <path class="fil10" d="M2 24l10 -13c1,-1 3,-2 4,-2l111 0 -12 15 -113 0zm114 1l13 -16c0,0 0,0 0,-1 0,0 0,0 -1,0l-48 0c-1,0 -2,0 -2,-1l-6 -6c-1,-1 -2,-1 -3,-1l-54 0c-1,0 -2,1 -3,2l-5 5c-1,1 -1,2 -1,3l0 5c0,2 -1,3 -2,4l-4 5c0,0 0,0 0,0 0,0 0,0 0,0 0,1 0,1 1,1l114 0c1,0 1,0 1,0z"/>
+  </g>
+ </g>
+</svg>

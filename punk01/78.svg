@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X7 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="2106px" height="2300px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 108 118"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil2 {fill:#333333}
+    .fil0 {fill:#666666}
+    .fil1 {fill:#B3B3B3}
+    .fil3 {fill:#E6E6E6}
+   ]]>
+  </style>
+ </defs>
+ <g id="Vrstva_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_2647990181232">
+   <path class="fil0" d="M70 102c0,4 -3,7 -7,7 -3,0 -6,-3 -6,-7 0,-3 3,-6 6,-6 4,0 7,3 7,6z"/>
+   <g>
+    <path class="fil1" d="M96 25c-2,0 -4,-2 -4,-4 0,-2 2,-4 4,-4 2,0 4,2 4,4 0,2 -2,4 -4,4zm0 12c-2,0 -4,-1 -4,-4 0,-2 2,-4 4,-4 2,0 4,2 4,4 0,3 -2,4 -4,4zm0 13c-2,0 -4,-2 -4,-4 0,-2 2,-4 4,-4 2,0 4,2 4,4 0,2 -2,4 -4,4zm0 13c-2,0 -4,-2 -4,-4 0,-3 2,-4 4,-4 2,0 4,1 4,4 0,2 -2,4 -4,4zm-5 23c-5,0 -9,-4 -9,-9 0,-5 4,-9 9,-9 5,0 9,4 9,9 0,5 -4,9 -9,9zm0 25c-5,0 -9,-4 -9,-9 0,-5 4,-9 9,-9 5,0 9,4 9,9 0,5 -4,9 -9,9zm-28 0c-5,0 -9,-4 -9,-9 0,-5 4,-9 9,-9 5,0 9,4 9,9 0,5 -4,9 -9,9zm10 -111l0 82 -26 0 0 18 -8 0 0 18 69 0 0 -118 -35 0z"/>
+    <polygon class="fil1" points="18,103 37,103 37,100 29,100 29,91 0,91 0,108 18,108 "/>
+    <polygon class="fil1" points="32,98 39,98 39,98 45,98 45,82 0,82 0,89 32,89 "/>
+    <polygon class="fil1" points="20,106 20,110 0,110 0,118 37,118 37,106 "/>
+   </g>
+   <g>
+    <polygon class="fil2" points="84,59 66,59 66,21 84,21 "/>
+    <path class="fil2" d="M97 77c0,4 -3,7 -6,7 -4,0 -7,-3 -7,-7 0,-3 3,-6 7,-6 3,0 6,3 6,6z"/>
+   </g>
+   <g>
+    <polygon class="fil3" points="76,30 66,30 66,27 76,27 "/>
+    <polygon class="fil3" points="76,36 66,36 66,33 76,33 "/>
+    <polygon class="fil3" points="76,43 66,43 66,40 76,40 "/>
+    <polygon class="fil3" points="76,50 66,50 66,47 76,47 "/>
+    <path class="fil3" d="M97 102c0,4 -3,7 -6,7 -4,0 -7,-3 -7,-7 0,-3 3,-6 7,-6 3,0 6,3 6,6z"/>
+   </g>
+  </g>
+ </g>
+</svg>
