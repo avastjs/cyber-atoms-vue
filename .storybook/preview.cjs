@@ -1,3 +1,4 @@
+import '../lib/style.css'; 
 import '../lib/sb-style.css'; 
 
 export const parameters = {

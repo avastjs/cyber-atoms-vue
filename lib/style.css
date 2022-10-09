@@ -1,14 +1,19 @@
-.super-svg-container{
+.cb-svg{
   position: relative;
+  display: flex;
+  z-index: 0;
 }
 
 @keyframes pulse-animation {
-  0%,
-  100% {
-    opacity: .7;
-  }
+  0% {
+    opacity: .6;
+	}
 
-  80% {
-    opacity: .8;
-  }
+	70% {
+    opacity: .75;
+	}
+
+	100% {
+    opacity: .6;
+	}
 }
