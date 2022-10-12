@@ -25,17 +25,17 @@ export default {
       height: '100%',
       animation: 'pulse-animation',
       fills: [
-        "orangered",
-        "orangered",
-        "orange",
-        "cyan",
-        "orange",
-        "orangered",
-        "orangered",
-        "orangered",
-        "orangered",
-        "orangered",
-        "orangered"
+        "#00ff9f",
+        "#00ff9f",
+        "#00ff9f",
+        "#001eff",
+        "#d600ff",
+        "#00ff9f",
+        "#00ff9f",
+        "#d600ff",
+        "#00ff9f",
+        "#00ff9f",
+        "#00ff9f"
       ],
     }
     return {

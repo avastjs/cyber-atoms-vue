@@ -18,3 +18,8 @@ body::after {
   position: absolute;
   z-index: -1;
 }
+
+.hoverExample:hover {
+  cursor: pointer;
+  opacity: .7;
+}

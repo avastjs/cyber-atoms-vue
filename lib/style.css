@@ -6,14 +6,19 @@
 
 @keyframes pulse-animation {
   0% {
-    opacity: .6;
+    opacity: .7;
 	}
 
 	70% {
-    opacity: .75;
+    opacity: .85;
 	}
 
 	100% {
-    opacity: .6;
+    opacity: .7;
 	}
+}
+
+
+.cb-a-fast {
+  animation: pulse-animation .3s infinite !important;
 }
