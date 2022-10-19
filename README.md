@@ -1,5 +1,6 @@
 # VastJS -  @vastjs/cyber-atoms-vue
 
+These visual **Components** are made for VastJS Studio, feel free to contribute or use them.
 
 
 ### Install dependencies manually
