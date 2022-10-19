@@ -1,13 +1,13 @@
 {
-  "name": "@jwtechnologies/core-lib",
+  "name": "@vastjs/cyber-atoms-vue",
   "private": false,
-  "version": "0.0.7",
+  "version": "0.1.0",
   "type": "module",
   "files": [
     "dist"
   ],
-  "main": "./dist/core-lib.umd.cjs",
-  "module": "./dist/core-lib.js",
+  "main": "./dist/cyber-atoms-vue.umd.cjs",
+  "module": "./dist/cyber-atoms-vue.js",
   "scripts": {
     "build": "vite build",
     "storybook": "start-storybook -p 6006",
@@ -15,8 +15,8 @@
   },
   "exports": {
     ".": {
-      "import": "./dist/core-lib.js",
-      "require": "./dist/core-lib.umd.cjs"
+      "import": "./dist/cyber-atoms-vue.js",
+      "require": "./dist/cyber-atoms-vue.umd.cjs"
     }
   },
   "dependencies": {

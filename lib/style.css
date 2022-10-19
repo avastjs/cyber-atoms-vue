@@ -1,4 +1,4 @@
-.cb-svg{
+.cb-svg {
   position: relative;
   display: flex;
   z-index: 0;
@@ -7,17 +7,14 @@
 @keyframes pulse-animation {
   0% {
     opacity: .7;
-	}
-
-	70% {
+  }
+  70% {
     opacity: .85;
-	}
-
-	100% {
+  }
+  100% {
     opacity: .7;
-	}
+  }
 }
-
 
 .cb-a-fast {
   animation: pulse-animation .3s infinite !important;
